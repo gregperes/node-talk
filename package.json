@@ -1,0 +1,15 @@
+{
+  "name": "node-talk",
+  "version": "1.0.0",
+  "description": "Just a demo project for my node talk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gregory Peres (gregperes84@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
